@@ -27,3 +27,5 @@ docs
 .vscode
 .nyc_output
 sync.ffs_db
+node-red-editor-client-3.0.2.tgz
+.npmrc
