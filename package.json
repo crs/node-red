@@ -8,6 +8,9 @@
         "type": "git",
         "url": "https://github.com/node-red/node-red.git"
     },
+    "publishConfig": {
+        "registry": "https://nexus.cpronect.de/repository/npm-cpro"
+    },
     "private": "true",
     "scripts": {
         "start": "node packages/node_modules/node-red/red.js",
